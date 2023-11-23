@@ -1,9 +1,15 @@
+![logo](https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67)
+![](https://komarev.com/ghpvc/?username=mellowmokoen&color=green&style=for-the-badge)
+
+
 <h1 align="center">Hi 👋, I'm Mamello Mokoena</h1>
 <h3 align="center">A passionate Front-end developer from South Africa 🇿🇦</h3>
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
+
 - 🔭 I’m currently working on [A Budget App](https://github.com/MellowMokoen/Budget-App)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about: **HTML , CSS , JavaScript , React**
 
