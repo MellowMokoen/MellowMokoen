@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML , CSS , JavaScript , React**
+- 💬 Ask me about: **HTML , CSS , JavaScript , React**
 
-- 📫 How to reach me **mamello3632@gmail.com**
+- 📫 How to reach me : **mamello3632@gmail.com**
 
-- 📄 Know about my experiences [https://incredible-blancmange-22b00a.netlify.app/](https://incredible-blancmange-22b00a.netlify.app/)
+- 📄 Know about my experiences : [https://incredible-blancmange-22b00a.netlify.app/](https://incredible-blancmange-22b00a.netlify.app/)
 
-- ⚡ Fun fact **I enjoy reading books about movies more than watching them**
+- ⚡ Fun fact : **I enjoy reading books about movies more than watching them**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
