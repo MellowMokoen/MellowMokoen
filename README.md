@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mamello Mokoena</h1>
-<h3 align="center">A passionate Front-end developer from South Africa</h3>
+<h3 align="center">A passionate Front-end developer from South Africa 🇿🇦</h3>
 
 - 🔭 I’m currently working on [A Budget App](https://github.com/MellowMokoen/Budget-App)
 
