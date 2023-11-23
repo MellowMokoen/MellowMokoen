@@ -24,5 +24,5 @@
 
 <h3 align="left" color="rgb(10, 12, 16)">My Stats :</h3>
 
-![Mellow's GitHub stats](https://github-readme-stats.vercel.app/api?username=mellowmokoen&theme=gruvbox_light&show_icons=true)                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellowmokoen&theme=dark"/>
+![Mellow's GitHub stats](https://github-readme-stats.vercel.app/api?username=mellowmokoen&theme=gruvbox_light&show_icons=true)   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellowmokoen&theme=dark"/>
 
