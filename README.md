@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm Mamello Mokoena</h1>
 <h3 align="center">A passionate Front-end developer from South Africa 🇿🇦</h3>
 
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mb4ucn2awawmdcrv5rkzvlwvfa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+ 
 <img align="right" alt="Coding" width="280" height="230" src="https://miro.medium.com/v2/resize:fit:679/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
 
 - 🔭 I’m currently working on [A Budget App](https://github.com/MellowMokoen/Budget-App)
