@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I am Mokoena Mamello</h1>
 <h3 align="center">A passionate Front-end developer from South Africa 🇿🇦</h3>
 
-<img align="right" alt="Coding" width="270" height="200" src="https://miro.medium.com/v2/resize:fit:679/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
+<img align="right" alt="Coding" width="250" height="210" src="https://miro.medium.com/v2/resize:fit:679/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
 
 - 🔭 I’m currently working on [A Budget App](https://github.com/MellowMokoen/Budget-App)
 
