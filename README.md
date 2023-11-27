@@ -29,7 +29,7 @@
 
 <h3 align="left"> Mellow's Spotify ( Live ) </h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mb4ucn2awawmdcrv5rkzvlwvfa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mb4ucn2awawmdcrv5rkzvlwvfa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) 
  
 <h3 align="left" color="rgb(10, 12, 16)">My Stats :</h3>
 
