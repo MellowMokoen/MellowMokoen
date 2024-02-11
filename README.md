@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="250" height="210" src="https://miro.medium.com/v2/resize:fit:679/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
 
-- 🔭 I’m currently working on [A Budget App](https://github.com/MellowMokoen/Budget-App)
+- 🔭 I’m currently working on [An e-commerce website ( Apple store) ](https://gleeful-valkyrie-2e6bc6.netlify.app/)
 
 - 🌱 I’m currently learning **Node.js**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me : **mamello3632@gmail.com**
 
-- 📄 Know about my experiences : [https://incredible-blancmange-22b00a.netlify.app/](https://incredible-blancmange-22b00a.netlify.app/)
+- 📄 Know about my experiences : [https://astounding-kheer-9f768b.netlify.app/](https://astounding-kheer-9f768b.netlify.app/)
 
 - ⚡ Fun fact : **I enjoy reading books about movies more than watching them**
 
