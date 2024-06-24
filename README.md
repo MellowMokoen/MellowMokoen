@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I am Mokoena Mamello</h1>
-<h3 align="center">A passionate Front-end developer from South Africa 🇿🇦</h3>
+<h3 align="center">A passionate Software Developer from South Africa 🇿🇦</h3>
 
 <img align="right" alt="Coding" width="250" height="210" src="https://miro.medium.com/v2/resize:fit:679/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
 
-- 🔭 I’m currently working on [An e-commerce website ( Apple store) ](https://gleeful-valkyrie-2e6bc6.netlify.app/)
+- 🔭 I’m currently working on A Chatbot for Student use. I can't disclose it.
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about: **HTML , CSS , JavaScript , React.js , Node.js**
+- 💬 Ask me about: **HTML , CSS , JavaScript , React.js , Node.js , SQL , Wordpress**
 
 - 📫 How to reach me : **mamello3632@gmail.com**
 
