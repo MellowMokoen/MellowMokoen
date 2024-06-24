@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on A Chatbot for Student use. I can't disclose it.
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Wordpress & WordFlow**
 
 - 💬 Ask me about: **HTML , CSS , JavaScript , React.js , Node.js , SQL , Wordpress**
 
