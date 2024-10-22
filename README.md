@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on A Chatbot for Student use. I can't disclose it.
 
-- 🌱 I’m currently learning **Wordpress & WordFlow**
+- 🌱 I’m currently learning **AWS Cloud Practisioner Foundation**
 
-- 💬 Ask me about: **HTML , CSS , JavaScript , React.js , Node.js , SQL , Wordpress**
+- 💬 Ask me about: **HTML , CSS , JavaScript , React.js , Node.js , SQL , Wordpress , Microsoft Azure , RESTFul APIs**
 
 - 📫 How to reach me : **mamello3632@gmail.com**
 
-- 📄 Know about my experiences : [https://astounding-kheer-9f768b.netlify.app/](https://astounding-kheer-9f768b.netlify.app/)
+- 📄 Know about my experiences : 
 
 - ⚡ Fun fact : **I enjoy reading books about movies more than watching them**
 
