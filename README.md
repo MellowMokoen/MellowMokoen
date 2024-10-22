@@ -26,8 +26,7 @@
 
 <h3 align="left"> Mellow's Spotify </h3>
 
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mb4ucn2awawmdcrv5rkzvlwvfa&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false)]]
-
+[![Spotify GitHub Profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mb4ucn2awawmdcrv5rkzvlwvfa&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mb4ucn2awawmdcrv5rkzvlwvfa&redirect=true)
  
 <h3 align="left" color="rgb(10, 12, 16)">My Stats :</h3>
 
